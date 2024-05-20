@@ -1,1 +1,3 @@
-# weather_main_app
+# weather
+
+A very simple app made with openweathermap API
